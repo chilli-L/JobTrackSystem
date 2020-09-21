@@ -1,0 +1,62 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 10,
+  "data": [
+    {
+      "id": 1,
+      "cname": "生物科技有限公司",
+      "city": "深圳",
+      "trade": "药品",
+      "leader": "王不理",
+      "telephone": "18625973562",
+      "status": "合作中",
+      "job": "制药工程师"
+
+    },
+    {
+      "id": 2,
+      "cname": "北京教育有限公司",
+      "city": "北京",
+      "trade": "教育行业",
+      "leader": "李小花",
+      "telephone": "18834172256",
+      "status": "合作中",
+      "job": "助教"
+
+    },
+    {
+      "id": 3,
+      "cname": "大连华宇科技有限公司",
+      "city": "大连",
+      "trade": "通信行业",
+      "leader": "刘大海",
+      "telephone": "18625314265",
+      "status": "合作中",
+      "job": "Java开发"
+
+    },
+    {
+      "id": 4,
+      "cname": "成都银海软件科技有限公司",
+      "city": "成都",
+      "trade": "金融行业",
+      "leader": "郭大侠",
+      "telephone": "13488623145",
+      "status": "合作中",
+      "job": "Java开发"
+
+    },
+    {
+      "id": 5,
+      "cname": "山东国子科技有限公司",
+      "city": "山东",
+      "trade": "物联网",
+      "leader": "李海路",
+      "telephone": "15012312352",
+      "status": "合作中",
+      "job": "Java开发"
+
+    }
+  ]
+}
